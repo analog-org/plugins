@@ -19,6 +19,7 @@
 
 <div align="center">
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=D.JS&style=flat-square">
+  <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=D.JS&style=flat-square">
   <img alt="npm" src="https://img.shields.io/npm/v/next?label=next&style=flat-square">
   <img alt="npm" src="https://img.shields.io/npm/v/next-auth?label=next-auth&style=flat-square">
   <img alt="npm" src="https://img.shields.io/npm/v/turbo?label=Turbo&style=flat-square">
