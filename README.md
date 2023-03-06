@@ -23,8 +23,8 @@
   <img alt="npm" src="https://img.shields.io/npm/v/next?label=next&style=flat-square">
   <img alt="npm" src="https://img.shields.io/npm/v/next-auth?label=next-auth&style=flat-square">
   <img alt="npm" src="https://img.shields.io/npm/v/turbo?label=Turbo&style=flat-square">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/analog-org/analog?style=flat-square">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/analog-org/analog?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/analog-org/plugins?style=flat-square">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/analog-org/plugins?style=flat-square">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/analog-org/analog?style=flat-square">
 </div>
 
